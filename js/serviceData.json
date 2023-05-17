@@ -1,0 +1,19 @@
+{ 
+  "service":{
+    "type": {
+
+      "Installation": "We will measure and evaluate your space, discuss your options, give you an estimate, and schedule your installation service. Before your service day, prepare the space by moving any furniture and appliances out. During the installation process, you decide whether you want to stay home or relocate. It all depends on the size of the job. Once the work is complete, MasterCare offers maintenance and support services to keep your floors looking new.",
+
+
+      "Sanding": "Next step, to bring new (colours to your home)(life for your hardwood). We will sand all dent and scratch on your floor.",
+
+      "Scraping": "We use scrapers on all kind of surfacess for removal of paint, glue varnish, rust, gaskets, chalk, etc.",
+
+      "Repairs": "We will evaluate the damage, discuss your options, give you an estimate, and schedule your repair service. Before your service day, prepare the space by moving any furniture and appliances from the affected area. During the repair process, you decide whether you want to stay home or relocate. It all depends on the size of the job. Once the work is complete, MasterCare offers maintenance and support services to keep your floors looking new.",
+
+      "Staining": "Lorem ipsum dolor sit amet consectetur adipiscing elit Integer adipiscing erat",
+
+      "Consultation": "d"
+    }
+      }
+}
